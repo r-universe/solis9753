@@ -1,5 +1,10 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
+	url = https://github.com/solis9753/solis9753.r-universe.dev
 	branch = HEAD
+[submodule "Multimorbidity"]
+	path = Multimorbidity
+	url = https://github.com/mi-erasmusmc/Multimorbidity
+[submodule "PLPBenchmarks"]
+	path = PLPBenchmarks
+	url = https://github.com/mi-erasmusmc/PlpBenchmarks
